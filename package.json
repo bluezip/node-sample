@@ -1,5 +1,5 @@
 {
-  "name": "bluezip-revesion",
+  "name": "bluezip-package-seed",
   "version": "0.0.1",
   "description": "mongoose revesion",
   "main": "lib/index.js",
@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "async": "^0.9.0",
-    "gulp": "^3.8.10",
     "lodash": "^3.0.0"
   },
   "devDependencies": {
+    "gulp": "^3.8.10",
     "gulp-mocha": "^2.0.0",
     "should": "^4.6.2"
   }
