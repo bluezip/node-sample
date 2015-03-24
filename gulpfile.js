@@ -21,5 +21,5 @@ gulp.task('test', function() {
 
 
 gulp.task('default', ['test'], function() {
-    gulp.watch("./lib/**/*.spec.js", ['test']);
+    gulp.watch("./lib/**/*.js", ['test']);
 });

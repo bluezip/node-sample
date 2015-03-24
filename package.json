@@ -1,5 +1,5 @@
 {
-  "name": "bluezip-package-seed",
+  "name": "node-sample",
   "version": "0.0.1",
   "description": "mongoose revesion",
   "main": "lib/index.js",
